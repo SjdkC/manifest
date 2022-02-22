@@ -1,0 +1,143 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Collection of parisian cat and dog shows posters from the 1890s",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This manifest gathers together multiple parisian cat and dog shows posters from the 1890s. The aim of this manifest is to allow the viewer to make comparisons between them, and to raise questions about how dogs and cats were regarded in the end of the XIXth century.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution" : "Paris Musées - Musée Carnavalet, Histoire de Paris (canvas 2 and 3). gallica.bnf.fr / Bibliothèque nationale de France (canvas 1 and 4)",
+  "sequences" : [ {
+    "@id" : "http://053a1dde-7b08-471b-9205-f73a14584ec0",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://af8ac564-cccc-4d21-a6f1-c3fc851c5ad0",
+      "@type" : "sc:Canvas",
+      "label" : "Poster for the13th dog show organized by the Société Centrale pour l'Amélioration des Races de Chiens en France.",
+      "height" : 12035,
+      "width" : 15924,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5869079a-8846-418e-ab4c-592af8706e3b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark%3A%2F12148%2Fbtv1b9013818z/f1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark%3A%2F12148%2Fbtv1b9013818z/f1",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 12035,
+          "width" : 15924
+        },
+        "on" : "http://af8ac564-cccc-4d21-a6f1-c3fc851c5ad0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a27ce390-e8ef-4350-9f98-3bb7690c2505",
+      "@type" : "sc:Canvas",
+      "label" : "Poster for the 26th dog show organized by the Société centrale pour l'Amélioration des Races de Chiens en France.",
+      "height" : 3682,
+      "width" : 5261,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ba24b083-158b-459f-a567-19f557b9ed8d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/image_mahler_p._26me._exposition_canine_sur_la_terrasse_de_lorangerie_des_tuiler/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/image_mahler_p._26me._exposition_canine_sur_la_terrasse_de_lorangerie_des_tuiler",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3682,
+          "width" : 5261
+        },
+        "on" : "http://a27ce390-e8ef-4350-9f98-3bb7690c2505"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://78c55927-d2f8-468b-8279-553b112588bb",
+      "@type" : "sc:Canvas",
+      "label" : "Poster for the international cat show organized by Le Journal and the Jardin d'Acclimatation in 1896.",
+      "height" : 5138,
+      "width" : 3509,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e48c01dd-5038-4c9e-97a7-2afaa99964b2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/image_roedel_auguste_exposition_feline_internationale_le_concours_de_chats_du_jo/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/image_roedel_auguste_exposition_feline_internationale_le_concours_de_chats_du_jo",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 5138,
+          "width" : 3509
+        },
+        "on" : "http://6661d046-94a2-4574-bc32-506e2f29eb78"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c3162fc2-ff2a-42b5-853b-0e27c101f7de",
+      "@type" : "sc:Canvas",
+      "label" : "Poster for the cat show organized by Le Journal and the Jardin d'Acclimatation in 1897.",
+      "height" : 8185,
+      "width" : 5316,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0858b290-e107-4db4-beff-c0a57c047fb9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://gallica.bnf.fr/iiif/ark%3A%2F12148%2Fbtv1b90077657/f1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark%3A%2F12148%2Fbtv1b90077657/f1",
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+          },
+          "height" : 8185,
+          "width" : 5316
+        },
+        "on" : "http://c3162fc2-ff2a-42b5-853b-0e27c101f7de"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/dog_shows", "http://example.org/iiif/book1/range/cat_shows" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/dog_shows",
+    "@type" : "sc:Range",
+    "label" : "Dog shows posters",
+    "canvases" : [ "http://af8ac564-cccc-4d21-a6f1-c3fc851c5ad0", "http://a27ce390-e8ef-4350-9f98-3bb7690c2505" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/cat_shows",
+    "@type" : "sc:Range",
+    "label" : "Cat shows posters",
+    "canvases" : [ "http://78c55927-d2f8-468b-8279-553b112588bb", "http://c3162fc2-ff2a-42b5-853b-0e27c101f7de" ]
+  } ]
+}
