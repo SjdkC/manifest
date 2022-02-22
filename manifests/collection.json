@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dogs_show_manifest.json",
+    "label" : "Collection of parisian cat and dog shows posters from the 1890s"
+  } ]
 }
