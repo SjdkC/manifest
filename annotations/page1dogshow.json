@@ -1,0 +1,277 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Soci&eacute;t&eacute; Centrale pour l'Am&eacute;lioration des Races de Chiens en France was a kennel club created in 1881 in Paris. For more details, see <a title=\"Soci&eacute;t&eacute;_Centrale_Canine\" href=\"https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_Centrale_Canine\" target=\"_blank\" rel=\"noopener\">the Wikipidea page of this society.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Soci&eacute;t&eacute; Centrale pour l'Am&eacute;lioration des Races de Chiens en France was a kennel club created in 1881 in Paris. For more details, see <a title=\"Soci&eacute;t&eacute;_Centrale_Canine\" href=\"https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_Centrale_Canine\" target=\"_blank\" rel=\"noopener\">the Wikipidea page of this society.</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Paris",
+      "@type" : "oa:Tag",
+      "chars" : "Paris"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "kennel club",
+      "@type" : "oa:Tag",
+      "chars" : "kennel club"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T18:11:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645553493088",
+    "dcterms:modified" : "2022-02-25T17:55:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5234,1129,5098,3450"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5980.40967,1633.80049c470.6766,-289.74964 1134.6422,-505.51639 1801.82536,-505.2586v0v0c667.18316,0.25779 1248.41162,202.10409 1801.82536,505.2586c553.41374,303.15451 768.51865,765.10345 746.3405,1219.80217c-22.17815,454.69872 -281.63936,902.14721 -746.3405,1219.80217c-464.70114,317.65496 -1134.6422,505.51639 -1801.82536,505.2586c-667.18316,-0.25779 -1331.60841,-188.63478 -1801.82536,-505.2586c-470.21695,-316.62382 -746.22559,-761.49445 -746.3405,-1219.80217c-0.11491,-458.30772 275.6639,-930.05253 746.3405,-1219.80217z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_b0fdfd59-bc08-4779-ae34-4304e6842706\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"157.62934\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8ac564-cccc-4d21-a6f1-c3fc851c5ad0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hunting-horns concerts are planned. Hunting references are omnipresent on this poster.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hunting-horns concerts are planned. Hunting references are omnipresent on this poster.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "hunting-horns",
+      "@type" : "oa:Tag",
+      "chars" : "hunting-horns"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-25T16:27:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645806460523",
+    "dcterms:modified" : "2022-02-25T17:57:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6693,10600,3885,376"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6693.37647,10600.2619h1942.46394v0h1942.46394v187.87888v187.87888h-1942.46394h-1942.46394v-187.87888z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_e99a4634-c365-46e3-91d3-24b3f5164a15\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"23.07147\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8ac564-cccc-4d21-a6f1-c3fc851c5ad0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"V&eacute;n&eacute;rie\" or \"chasse &agrave; courre\" are a french word and a french phrase which mean \"hunting with hounds\". At the time, it was almost exclusively the prerogative of the aristocracy, by feudal tradition, because maintaining a pack of hounds is pricey, and because it requires horses.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"V&eacute;n&eacute;rie\" or \"chasse &agrave; courre\" are a french word and a french phrase which mean \"hunting with hounds\". At the time, it was almost exclusively the prerogative of the aristocracy, by feudal tradition, because maintaining a pack of hounds is pricey, and because it requires horses.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "hunting",
+      "@type" : "oa:Tag",
+      "chars" : "hunting"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "hounds",
+      "@type" : "oa:Tag",
+      "chars" : "hounds"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-25T16:36:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645807013675",
+    "dcterms:modified" : "2022-02-25T17:58:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=10870,10939,3897,330"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M10870.31508,10938.89658h1948.50408v0h1948.50408v165.11551v165.11551h-1948.50408h-1948.50408v-165.11551z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_459d2e2d-e951-456e-80a0-5d12372f3638\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"138.4288\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8ac564-cccc-4d21-a6f1-c3fc851c5ad0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Even though this dog show mainly aims at the upper class, the entrance price is quite moderate.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Even though this dog show mainly aims at the upper class, the entrance price is quite moderate.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "price",
+      "@type" : "oa:Tag",
+      "chars" : "price"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-25T16:25:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645806303793",
+    "dcterms:modified" : "2022-02-25T16:39:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3795,10185,2297,1569"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4131.00779,10414.59194c212.04073,-131.78678 511.15853,-229.92394 811.72585,-229.80669v0v0c300.56732,0.11725 562.41187,91.92297 811.72585,229.80669c249.31398,137.88372 346.21916,347.99188 336.22786,554.80243c-9.9913,206.81055 -126.87909,410.32347 -336.22786,554.80243c-209.34877,144.47896 -511.15853,229.92394 -811.72585,229.80669c-300.56732,-0.11725 -599.89219,-85.79673 -811.72585,-229.80669c-211.83366,-144.00996 -336.17609,-346.3504 -336.22786,-554.80243c-0.05177,-208.45203 124.18713,-423.01565 336.22786,-554.80243z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_38bc4d78-0c25-4ef8-a101-1bfcb1f6f622\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"131.29241\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8ac564-cccc-4d21-a6f1-c3fc851c5ad0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "gender",
+      "@type" : "oa:Tag",
+      "chars" : "gender"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "luxury",
+      "@type" : "oa:Tag",
+      "chars" : "luxury"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Alongside hunting dogs, the show also hosts a contest for \"little luxury dogs kept on a leash by ladies\", which confirms that this show aims at the upper classes. A gendered dimension can also be noted.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Alongside hunting dogs, the show also hosts a contest for \"little luxury dogs kept on a leash by ladies\", which confirms that this show aims at the upper classes. A gendered dimension can also be noted.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T16:46:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645807575124",
+    "dcterms:modified" : "2022-02-25T16:46:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=8988,9954,5779,440"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M8988.45721,9954.20351h2889.43302v0h2889.43302v219.82068v219.82068h-2889.43302h-2889.43302v-219.82068z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_636efceb-abce-40d6-aa85-27124e702b18\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8ac564-cccc-4d21-a6f1-c3fc851c5ad0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kennel clubs and dog selected breeding were previously experimented in the United Kingdom. For instance, The <a href=\"https://en.wikipedia.org/wiki/The_Kennel_Club\" target=\"_blank\" rel=\"noopener\">Kennel Club, the oldest kennel club in the world, was founded in 1873.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Kennel clubs and dog selected breeding were previously experimented in the United Kingdom. For instance, The <a href=\"https://en.wikipedia.org/wiki/The_Kennel_Club\" target=\"_blank\" rel=\"noopener\">Kennel Club</a>, the oldest kennel club in the world, was founded in 1873.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "kennel club",
+      "@type" : "oa:Tag",
+      "chars" : "kennel club"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-25T16:47:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645807674162",
+    "dcterms:modified" : "2022-02-25T16:50:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=7980,8727,1078,400"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7979.92383,8727.17114h538.94333v0h538.94333v200.23827v200.23827h-538.94333h-538.94333v-200.23827z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_3f23d0d9-8ce0-424d-90e1-e80b3d7cf383\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"103.28512\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8ac564-cccc-4d21-a6f1-c3fc851c5ad0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "\"Chiens d'arr&ecirc;t\" means \"pointing dogs\". They are dogs mainly used for hunting.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>\"Chiens d'arr&ecirc;t\" means \"pointing dogs\". They are dogs mainly used for hunting.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "hunting",
+      "@type" : "oa:Tag",
+      "chars" : "hunting"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-25T16:41:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645807283811",
+    "dcterms:modified" : "2022-02-25T17:56:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5422,8663,1599,549"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5421.68008,8663.16148h799.69549v0h799.69549v274.52585v274.52585h-799.69549h-799.69549v-274.52585z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_53e6bac0-7812-4c8c-af70-e86390f6cbd4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"131.35778\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af8ac564-cccc-4d21-a6f1-c3fc851c5ad0"
+    } ]
+  } ],
+  "@id" : "https://SjdkC.github.io/manifest/annotations/page1dogshow.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
