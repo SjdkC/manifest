@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://SjdkC.github.io/manifest/annotations/page1dogshow.json", "https://SjdkC.github.io/manifest/annotations/page2dogshow.json" ],
+  "otherContent" : [ "https://SjdkC.github.io/manifest/annotations/page1dogshow.json", "https://SjdkC.github.io/manifest/annotations/page2dogshow.json", "https://SjdkC.github.io/manifest/annotations/page3catshow.json" ],
   "@id" : "https://SjdkC.github.io/manifest/annotations/collection.json",
   "label" : "All annotations loaded in SjdkC/manifest project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
