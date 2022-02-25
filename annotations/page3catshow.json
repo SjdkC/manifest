@@ -1,0 +1,158 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "cat breeds",
+      "@type" : "oa:Tag",
+      "chars" : "cat breeds"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-bottom: 0cm; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"justify\">On this poster, we can see two adult cats alongside kittens. We can say that the emphasis is placed on cat breeding. Cat enthousiats started to select cats in order to create breeds in the middle of the XIXth century (see Wastlhuber, J. (1991). \"History of domestic cats and cat breeds\". In Pedersen, N.C. (ed.). Feline Husbandry: Diseases and management in the multiple-cat environment. Goleta: American Veterinary Publications. pp. 1&ndash;59. ISBN 9780939674299). However, this illustration focuses on diversity among cats : they are different in term of color and fur. In the late XIXth century, cat breeds were not fixed yet.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-bottom: 0cm; font-weight: normal; line-height: 100%; text-decoration: none;\" align=\"justify\">On this poster, we can see two adult cats alongside kittens. We can say that the emphasis is placed on cat breeding. Cat enthousiats started to select cats in order to create breeds in the middle of the XIXth century (see Wastlhuber, J. (1991). \"History of domestic cats and cat breeds\". In Pedersen, N.C. (ed.). <em>Feline Husbandry: Diseases and management in the multiple-cat environment.</em> Goleta: American Veterinary Publications. pp. 1&ndash;59. ISBN 9780939674299). However, this illustration focuses on diversity among cats : they are different in term of color and fur. In the late XIXth century, cat breeds were not fixed yet.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T15:36:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645803391271",
+    "dcterms:modified" : "2022-02-25T15:36:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=339,1389,2861,2121"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M339.16522,1389.4087h1430.70435v0h1430.70435v1060.51304v1060.51304h-1430.70435h-1430.70435v-1060.51304z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_66371c4b-f83c-4a33-8c49-1f7661acda17\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://78c55927-d2f8-468b-8279-553b112588bb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The international aspect of selective cat breeding is important, as it mainly began among the United Kingdom's upper-class. The first cat show was held in London in 1872.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The international aspect of selective cat breeding is important, as it mainly began among the United Kingdom's upper-class. The first cat show was held in London in 1872.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T15:48:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645804138221",
+    "dcterms:modified" : "2022-02-25T15:54:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1823,112,1527,345"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1823.20568,112.3502h763.3347v0h763.3347v172.52531v172.52531h-763.3347h-763.3347v-172.52531z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_83b926df-393d-4643-b28f-50f9eeaa1788\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"13.45237\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://78c55927-d2f8-468b-8279-553b112588bb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Le Journal",
+      "@type" : "oa:Tag",
+      "chars" : "Le Journal"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "newspaper",
+      "@type" : "oa:Tag",
+      "chars" : "newspaper"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Le Journal was a daily newspaper first published in 1892. At the time, it was a literary and republican newspaper.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Le Journal</em> was a daily newspaper first published in 1892. At the time, it was a literary and republican newspaper.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T16:00:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645804850548",
+    "dcterms:modified" : "2022-02-25T16:00:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2193,400,729,303"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2814.59695,658.10774c-67.26529,25.41165 -162.15389,44.33485 -257.50231,44.31224v0v0c-95.34842,-0.02261 -178.41289,-17.72495 -257.50231,-44.31224c-79.08942,-26.58729 -109.83047,-67.10118 -106.66095,-106.97921c3.16952,-39.87803 40.24962,-79.12021 106.66095,-106.97921c66.41133,-27.85901 162.15389,-44.33485 257.50231,-44.31224c95.34842,0.02261 190.3027,16.54367 257.50231,44.31224c67.1996,27.76857 106.64453,66.78466 106.66095,106.97921c0.01642,40.19455 -39.39566,81.56756 -106.66095,106.97921z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_b7cc272a-b52f-433a-9fa9-998a94db8e15\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://78c55927-d2f8-468b-8279-553b112588bb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A parallel is drawn between the kitten and the canary, another popular pet at the time (see <a href=\"https://www.persee.fr/doc/comm_0588-8018_2004_num_76_1_2162\" target=\"_blank\" rel=\"noopener\">Del Col Eliane. Un statut pour les oiseaux de cage ?. In: Communications, 76, 2004. Nouvelles figures du sauvage, sous la direction de Sophie Bobb&eacute;. pp. 127-145). On this poster, cats are indubitably shown as pets.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A parallel is drawn between the kitten and the canary, another popular pet at the time (see <a href=\"https://www.persee.fr/doc/comm_0588-8018_2004_num_76_1_2162\" target=\"_blank\" rel=\"noopener\">Del Col Eliane. Un statut pour les oiseaux de cage ?. In: <em>Communications</em>, 76, 2004. Nouvelles figures du sauvage, sous la direction de Sophie Bobb&eacute;. pp. 127-145</a>). On this poster, cats are indubitably shown as pets.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "canary",
+      "@type" : "oa:Tag",
+      "chars" : "canary"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "pets",
+      "@type" : "oa:Tag",
+      "chars" : "pets"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-25T15:39:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645803574868",
+    "dcterms:modified" : "2022-02-25T18:02:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1444,2784,1374,638"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1645.28595,2877.29688c126.84387,-53.55887 305.7777,-93.44234 485.57864,-93.39469v0v0c179.80094,0.04765 336.43772,37.358 485.57864,93.39469c149.14092,56.03669 207.11011,141.4258 201.13326,225.47473c-5.97685,84.04893 -75.89973,166.7577 -201.13326,225.47473c-125.23353,58.71703 -305.7777,93.44234 -485.57864,93.39469c-179.80094,-0.04765 -358.85864,-34.86826 -485.57864,-93.39469c-126.72,-58.52643 -201.10229,-140.75869 -201.13326,-225.47473c-0.03097,-84.71604 74.28939,-171.91586 201.13326,-225.47473z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_0d270296-b809-4532-b1ff-1d47911d5aa3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"50.47151\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://78c55927-d2f8-468b-8279-553b112588bb"
+    } ]
+  } ],
+  "@id" : "https://SjdkC.github.io/manifest/annotations/page3catshow.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
