@@ -3,6 +3,11 @@
   "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json",
   "@type" : "sc:Manifest",
   "label" : "Collection of parisian cat and dog shows posters from the 1890s",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/92724884/manifests/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "This manifest gathers together multiple parisian cat and dog shows posters from the 1890s. The aim of this manifest is to allow the viewer to make comparisons between them, and to raise questions about how dogs and cats were regarded in the end of the XIXth century.",
@@ -40,7 +45,34 @@
           "height" : 12035,
           "width" : 15924
         },
+        "metadata" : [ {
+          "label" : "Repository",
+          "value" : "Bibliothèque nationale de France"
+        }, {
+          "label" : "Digitized image",
+          "value" : "https://gallica.bnf.fr/ark:/12148/btv1b9013818z"
+        }, {
+          "label" : "Title",
+          "value" : "Société Centrale pour l'amélioration des races de chiens en France, 40 rue des Mathurins. 13e Exposition canine, du 19 au 28 mai sur la terrasse de l'Orangerie des Tuileries[.. .]. Concerts de trompes tous les jours [...]. Dans l'Orangerie, exposition spéciale des peintres et sculpteurs de la vénérie. : [affiche] / [non identifié]"
+        }, {
+          "label" : "Author",
+          "value" : "Unknown"
+        }, {
+          "label" : "Date",
+          "value" : "1890-1914"
+        }, {
+          "label" : "Format",
+          "value" : "1 est. : lithographie, coul. ; 90 x 130 cm"
+        }, {
+          "label" : "Type",
+          "value" : "print"
+        } ],
         "on" : "http://af8ac564-cccc-4d21-a6f1-c3fc851c5ad0"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://sjdkc.github.io/manifest/annotations/page1dogshow.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for the first canvas"
       } ],
       "related" : ""
     }, {
@@ -66,7 +98,34 @@
           "height" : 3682,
           "width" : 5261
         },
+        "metadata" : [ {
+          "label" : "Repository",
+          "value" : "Musée Carnavalet, Histoire de Paris"
+        }, {
+          "label" : "Digitized image",
+          "value" : "https://www.parismuseescollections.paris.fr/de/node/77832"
+        }, {
+          "label" : "Title",
+          "value" : "26me./ EXPOSITION CANINE/ sur la TERRASSE de l'ORANGERIE/ des TUILERIES/ SONNERIES de TROMPES/ tous les jours/ de 2h. à 5h/ SOCIETE CENTRALE/ Pour l'Amélioraton des Races de Chiens/ EN FRANCE/ 40, Rue des Mathurins, PARIS/ du 19 au 26 Mai 1899/ DANS L'ORANGERIE DES TUILERIES/ 12E. EXP.ON DES PEINTRES & SCULPTEURS/ de Chasse & de Vènerie [sic]"
+        }, {
+          "label" : "Author",
+          "value" : [ "Mahler, P., dessinateur", "Imprimerie E. Douste, imprimeur" ]
+        }, {
+          "label" : "Date",
+          "value" : "1899"
+        }, {
+          "label" : "Format",
+          "value" : "1 est. : lithographie, coul. ; 109.5 x 157 cm"
+        }, {
+          "label" : "Type",
+          "value" : "print"
+        } ],
         "on" : "http://a27ce390-e8ef-4350-9f98-3bb7690c2505"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://sjdkc.github.io/manifest/annotations/page2dogshow.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for the second canvas"
       } ],
       "related" : ""
     }, {
@@ -92,7 +151,34 @@
           "height" : 5138,
           "width" : 3509
         },
+        "metadata" : [ {
+          "label" : "Repository",
+          "value" : "Musée Carnavalet, Histoire de Paris"
+        }, {
+          "label" : "Digitized image",
+          "value" : "https://www.parismuseescollections.paris.fr/de/node/171432"
+        }, {
+          "label" : "Title",
+          "value" : "EXPOSITION FELINE INTERNATIONALE/ LE CONCOURS DE CHATS DU 'JOURNAL'/ AU JARDIN D'ACCLIMATATION/ Les 25 26 et 27 Septembre 1896"
+        }, {
+          "label" : "Author",
+          "value" : "Roedel, Auguste (05–02–1859 - 13–04–1900), dessinateur"
+        }, {
+          "label" : "Date",
+          "value" : "1896"
+        }, {
+          "label" : "Format",
+          "value" : "1 est. : lithographie, coul. ; 117.7 x 79.5 cm"
+        }, {
+          "label" : "Type",
+          "value" : "print"
+        } ],
         "on" : "http://6661d046-94a2-4574-bc32-506e2f29eb78"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://sjdkc.github.io/manifest/annotations/page3catshow.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for the third canvas"
       } ],
       "related" : ""
     }, {
@@ -118,7 +204,34 @@
           "height" : 8185,
           "width" : 5316
         },
+        "metadata" : [ {
+          "label" : "Repository",
+          "value" : "Bibliothèque nationale de France"
+        }, {
+          "label" : "Digitized image",
+          "value" : "https://gallica.bnf.fr/ark:/12148/btv1b90077657"
+        }, {
+          "label" : "Title",
+          "value" : "Exposition & Concours de chats organisés par Le Journal & le Jardin d'Acclimatation... Octobre 1897. Le Lundi 25 Octobre, Concours de chats... : [affiche] / Roedel "
+        }, {
+          "label" : "Author",
+          "value" : "Roedel, Auguste (1859-1900). Illustrateur"
+        }, {
+          "label" : "Date",
+          "value" : "1897"
+        }, {
+          "label" : "Format",
+          "value" : "1 est. : lithographie, coul. ; 120 x 80 cm"
+        }, {
+          "label" : "Type",
+          "value" : "print"
+        } ],
         "on" : "http://c3162fc2-ff2a-42b5-853b-0e27c101f7de"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://sjdkc.github.io/manifest/annotations/page4catshow.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for the fourth canvas"
       } ],
       "related" : ""
     } ]
