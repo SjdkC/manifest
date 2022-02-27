@@ -70,7 +70,7 @@
         "on" : "http://af8ac564-cccc-4d21-a6f1-c3fc851c5ad0"
       } ],
       "otherContent" : [ {
-        "@id" : "https://sjdkc.github.io/manifest/annotations/page1dogshow.json",
+        "@id" : "https://sjdkc.github.io/manifest/annotations/page1b.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotations for the first canvas"
       } ],
@@ -123,7 +123,7 @@
         "on" : "http://a27ce390-e8ef-4350-9f98-3bb7690c2505"
       } ],
       "otherContent" : [ {
-        "@id" : "https://sjdkc.github.io/manifest/annotations/page2dogshow.json",
+        "@id" : "https://sjdkc.github.io/manifest/annotations/page2n.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotations for the second canvas"
       } ],
@@ -176,7 +176,7 @@
         "on" : "http://6661d046-94a2-4574-bc32-506e2f29eb78"
       } ],
       "otherContent" : [ {
-        "@id" : "https://sjdkc.github.io/manifest/annotations/page3catshow.json",
+        "@id" : "https://sjdkc.github.io/manifest/annotations/page3n.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotations for the third canvas"
       } ],
@@ -229,7 +229,7 @@
         "on" : "http://c3162fc2-ff2a-42b5-853b-0e27c101f7de"
       } ],
       "otherContent" : [ {
-        "@id" : "https://sjdkc.github.io/manifest/annotations/page4catshow.json",
+        "@id" : "https://sjdkc.github.io/manifest/annotations/page4n.json",
         "@type" : "sc:AnnotationList",
         "label" : "Annotations for the fourth canvas"
       } ],
