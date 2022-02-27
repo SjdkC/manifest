@@ -1,0 +1,240 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The distinct roles of each cat is shown by the duality of their meals : the pet cat is eating a piece of meat provided by humans and put on a plate, which highlights its indoor lifestyle.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The distinct roles of each cat is shown by the duality of their meals : the pet cat is eating a piece of meat provided by humans and put on a plate, which highlights its indoor lifestyle.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "meat",
+      "@type" : "oa:Tag",
+      "chars" : "meat"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "plate",
+      "@type" : "oa:Tag",
+      "chars" : "plate"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T18:57:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645556243345",
+    "dcterms:modified" : "2022-02-22T18:58:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=283,4266,1014,892"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M431.41253,4396.3303c93.65647,-74.88295 225.7741,-130.64574 358.53197,-130.57912v0v0c132.75787,0.06662 248.41224,52.23182 358.53197,130.57912c110.11973,78.3473 152.92188,197.73346 148.50881,315.24587c-4.41307,117.51241 -56.04135,233.15107 -148.50881,315.24587c-92.46746,82.0948 -225.7741,130.64574 -358.53197,130.57912c-132.75787,-0.06662 -264.96696,-48.75081 -358.53197,-130.57912c-93.56501,-81.82831 -148.48594,-196.80075 -148.50881,-315.24587c-0.02287,-118.44512 54.85234,-240.36292 148.50881,-315.24587z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_bf631713-050a-470c-84d9-03c88898495e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"125.40227\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c3162fc2-ff2a-42b5-853b-0e27c101f7de"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "mouse",
+      "@type" : "oa:Tag",
+      "chars" : "mouse"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "hunting",
+      "@type" : "oa:Tag",
+      "chars" : "hunting"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The distinct roles of each cat is shown by the duality of their meals : the \"chat de goutti&egrave;re\" is hunting a mouse, which highlights its role and its outdoor lifestyle.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The distinct roles of each cat is shown by the duality of their meals : the \"chat de goutti&egrave;re\" is hunting a mouse, which highlights its role and its outdoor lifestyle.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T18:56:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645556167337",
+    "dcterms:modified" : "2022-02-22T18:56:07",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3920,5185,1284,941"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4107.52378,5323.11884c118.5325,-78.99579 285.74181,-137.82127 453.7614,-137.75099v0v0c168.01959,0.07028 314.39284,55.10058 453.7614,137.75099c139.36855,82.65042 193.53934,208.5937 187.95413,332.56031c-5.58522,123.96662 -70.92645,245.95657 -187.95413,332.56031c-117.02768,86.60374 -285.74181,137.82127 -453.7614,137.75099c-168.01959,-0.07028 -335.34465,-51.42837 -453.7614,-137.75099c-118.41675,-86.32262 -187.92519,-207.60976 -187.95413,-332.56031c-0.02894,-124.95056 69.42162,-253.56453 187.95413,-332.56031z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_d84d3875-db2f-4e78-93d4-dcde1ded9a0d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c3162fc2-ff2a-42b5-853b-0e27c101f7de"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A \"mice destruction\" contest is advertise in big letters on the poster, which means that it is regarded as one of the main event of the cat show. Similarly to dog breeding, cat breeding mostly appealed to the upper classes, so it could be a way to attract a more popular audience, for which purebred cats breeding may not be important, but for which rodent control definitly is. Rodent were such a problem at the turn of the XIXth century that the municipality of Paris even organized a rat destruction contest in 1901, involving this time pest control experts, not cats (see <a href=\"https://www.retronews.fr/sante/echo-de-presse/2018/08/08/1901-la-chasse-aux-rats-dans-paris\" target=\"_blank\" rel=\"noopener\">Lamure Priscile, \"1901 : La chasse aux rats dans Paris\", Retronews, 2018)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A \"mice destruction\" contest is advertise in big letters on the poster, which means that it is regarded as one of the main event of the cat show. Similarly to dog breeding, cat breeding mostly appealed to the upper classes, so it could be a way to attract a more popular audience, for which purebred cats breeding may not be important, but for which rodent control definitly is. Rodent were such a problem at the turn of the XIXth century that the municipality of Paris even organized a rat destruction contest in 1901, involving this time pest control experts, not cats (see <a href=\"https://www.retronews.fr/sante/echo-de-presse/2018/08/08/1901-la-chasse-aux-rats-dans-paris\" target=\"_blank\" rel=\"noopener\">Lamure Priscile, \"1901 : La chasse aux rats dans Paris\", Retronews, 2018)</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "pest control",
+      "@type" : "oa:Tag",
+      "chars" : "pest control"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "rodent",
+      "@type" : "oa:Tag",
+      "chars" : "rodent"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-25T13:47:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645796868337",
+    "dcterms:modified" : "2022-02-25T18:03:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=426,6457,4684,992"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1111.93946,6602.6596c432.45933,-83.30593 1042.51329,-145.34103 1655.52355,-145.26691v0v0c613.01026,0.07412 1147.04503,58.10695 1655.52355,145.26691c508.47852,87.15996 706.11767,219.97491 685.74031,350.70535c-20.37736,130.73044 -258.77125,259.37637 -685.74031,350.70535c-426.96906,91.32898 -1042.51329,145.34103 -1655.52355,145.26691c-613.01026,-0.07412 -1223.48655,-54.23439 -1655.52355,-145.26691c-432.037,-91.03252 -685.63473,-218.93729 -685.74031,-350.70535c-0.10558,-131.76806 253.28098,-267.39942 685.74031,-350.70535z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_5fe8fdca-7f89-4fd6-8e7a-7ca7f9b27daf\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"96.4833\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c3162fc2-ff2a-42b5-853b-0e27c101f7de"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "rodent control",
+      "@type" : "oa:Tag",
+      "chars" : "rodent control"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "As opposed to the other cat, this feline represents the traditionnal and utilitarian role of cats, that is to say rodent control.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>As opposed to the other cat, this feline represents the traditionnal and utilitarian role of cats, that is to say rodent control.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-22T18:22:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645554140656",
+    "dcterms:modified" : "2022-02-22T18:22:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2609,3160,2083,2488"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2913.83693,3524.73692c192.30026,-208.97154 463.57093,-364.58557 736.15617,-364.39965v0v0c272.58524,0.18592 510.05271,145.76033 736.15617,364.39965c226.10346,218.63932 313.987,551.80343 304.92587,879.73857c-9.06114,327.93514 -115.06695,650.64132 -304.92587,879.73857c-189.85892,229.09725 -463.57093,364.58557 -736.15617,364.39965c-272.58524,-0.18592 -544.0437,-136.04607 -736.15617,-364.39965c-192.11246,-228.35357 -304.87892,-549.20056 -304.92587,-879.73857c-0.04695,-330.53801 112.62561,-670.76703 304.92587,-879.73857z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_30993d62-ee0f-4680-aa11-6cff677c2005\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c3162fc2-ff2a-42b5-853b-0e27c101f7de"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "As opposed to the other cat, this individual represents a purebred cat or, at least, a pet cat. This aspect is shown by the ribbon around the cat's neck, along with its semi-long fur and quieter attitude.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>As opposed to the other cat, this individual represents a purebred cat or, at least, a pet cat. This aspect is shown by the ribbon around the cat's neck, along with its semi-long fur and quieter attitude.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "pet cat",
+      "@type" : "oa:Tag",
+      "chars" : "pet cat"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T18:52:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645555970167",
+    "dcterms:modified" : "2022-02-25T13:41:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=513,3561,2876,2679"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M933.848,3953.00256c265.52722,-225.00166 640.0964,-392.55278 1016.48072,-392.3526v0v0c376.38432,0.20018 704.27821,156.94155 1016.48072,392.3526c312.20251,235.41105 433.55167,594.13204 421.0401,947.22296c-12.51157,353.09092 -158.88387,700.55175 -421.0401,947.22296c-262.15623,246.67121 -640.0964,392.55278 -1016.48072,392.3526c-376.38432,-0.20018 -751.2128,-146.48212 -1016.48072,-392.3526c-265.26792,-245.87048 -420.97527,-591.32952 -421.0401,-947.22296c-0.06483,-355.89344 155.51288,-722.2213 421.0401,-947.22296z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_512d83b8-f236-419a-bb88-00462ec226d9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"25.83414\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c3162fc2-ff2a-42b5-853b-0e27c101f7de"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The visual association of the gutter and the cat next to it may be a reference to the french phrase \"chat de goutti&egrave;re\" (\"goutti&egrave;re\" being the french word for \"gutter\"). A \"chat de goutti&egrave;re\" is a cat that does not belong to a particular cat breed. This evocation reinforces the contrast between the two cats and their dedicated roles, particularly because the cat on the right, with its striped fur, conventionally looks like a \"chat de goutti&egrave;re\", and because these cats are seen as the best hunters (see <a href=\"http://thesaurus.altervista.org/dict/fr/souris\" target=\"_blank\" rel=\"noopener\">&laquo; Souris &raquo;, in the Grande encyclop&eacute;die illustr&eacute;e d&rsquo;&Eacute;conomie domestique et rurale, by Jules Trousset, Paris : chez Fayard fr&egrave;res, s.d. (vers 1875), p. 2310)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The visual association of the gutter and the cat next to it may be a reference to the french phrase \"chat de goutti&egrave;re\" (\"goutti&egrave;re\" being the french word for \"gutter\"). A \"chat de goutti&egrave;re\" is a cat that does not belong to a particular cat breed. This evocation reinforces the contrast between the two cats and their dedicated roles, particularly because the cat on the right, with its striped fur, conventionally looks like a \"chat de goutti&egrave;re\", and because these cats are seen as the best hunters (see <a href=\"http://thesaurus.altervista.org/dict/fr/souris\" target=\"_blank\" rel=\"noopener\">&laquo; Souris &raquo;, in the Grande encyclop&eacute;die illustr&eacute;e d&rsquo;&Eacute;conomie domestique et rurale, by Jules Trousset, Paris : chez Fayard fr&egrave;res, s.d. (vers 1875), p. 2310</a>)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "chat de gouttière",
+      "@type" : "oa:Tag",
+      "chars" : "chat de gouttière"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-22T18:46:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645555591724",
+    "dcterms:modified" : "2022-02-26T00:29:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4141,2663,900,2615"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4140.86935,2662.66561h449.91536v0h449.91536v1307.5447v1307.5447h-449.91536h-449.91536v-1307.5447z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_40199dae-3d6a-42f9-8b1e-2a6dfffb2c9a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"80.40275\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c3162fc2-ff2a-42b5-853b-0e27c101f7de"
+    } ]
+  } ],
+  "@id" : "https://SjdkC.github.io/manifest/annotations/page4n.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
