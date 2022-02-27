@@ -1,0 +1,216 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Some dogs look really similar to purebred dogs that we know nowadays. For exemple, this one looks like a <a href=\"https://en.wikipedia.org/wiki/French_Bulldog\" target=\"_blank\" rel=\"noopener\">French Bulldog...",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Some dogs look really similar to purebred dogs that we know nowadays. For exemple, this one looks like a <a href=\"https://en.wikipedia.org/wiki/French_Bulldog\" target=\"_blank\" rel=\"noopener\">French Bulldog</a>...</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T17:08:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645808939777",
+    "dcterms:modified" : "2022-02-25T18:00:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1754,2596,560,688"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1754.38261,2595.98261h280.0087v0h280.0087v344.04348v344.04348h-280.0087h-280.0087v-344.04348z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true}\" id=\"rectangle_f9ec820d-0891-4bee-a710-f1541787d49e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"45.73913\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a27ce390-e8ef-4350-9f98-3bb7690c2505"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Unlike the previous poster, this poster mainly focuses on the diversity among dogs. Several dog shows iteration later, selective breeding seems to have grown in importance within the kennel club.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Unlike the previous poster, this poster mainly focuses on the diversity among dogs. Several dog shows iteration later, selective breeding seems to have grown in importance within the kennel club.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "hunting hounds",
+      "@type" : "oa:Tag",
+      "chars" : "hunting hounds"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-25T16:52:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645807946733",
+    "dcterms:modified" : "2022-02-27T14:30:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=178,137,5004,1141"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5182.02849,1278.38114h-2501.89194v0h-2501.89194v-570.46955v-570.46955h2501.89194h2501.89194v570.46955z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_8b28f0ee-242b-4a27-8bac-b429f07084ea\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"50.79596\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a27ce390-e8ef-4350-9f98-3bb7690c2505"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hunting imagery is still present : here is a hound pack, which evokes the \"v&eacute;nerie\". The other dogs at the top of the poster also tend to be hunting hounds, or at least dogs with more traditionnal features and roles than the ones at the bottom of the poster.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hunting imagery is still present : here is a hound pack, which evokes the \"v&eacute;nerie\". The other dogs at the top of the poster also tend to be hunting hounds, or at least dogs with more traditionnal features and roles than the ones at the bottom of the poster.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "hunting hounds",
+      "@type" : "oa:Tag",
+      "chars" : "hunting hounds"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-25T16:57:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645808244611",
+    "dcterms:modified" : "2022-02-27T14:32:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3952,179,1188,385"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3952.28389,178.84479h594.17092v0h594.17092v192.69548v192.69548h-594.17092h-594.17092v-192.69548z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_b1d23c16-ba5f-4051-8978-9c5beac5db09\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"50.79596\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a27ce390-e8ef-4350-9f98-3bb7690c2505"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "... whereas this one looks like a <a href=\"https://en.wikipedia.org/wiki/Dalmatian_(dog)\" target=\"_blank\" rel=\"noopener\">Dalmatian, which standard first became official in England in 1890.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>... whereas this one looks like a <a href=\"https://en.wikipedia.org/wiki/Dalmatian_(dog)\" target=\"_blank\" rel=\"noopener\">Dalmatian</a>, which standard first became official in England in 1890.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T17:12:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645809163561",
+    "dcterms:modified" : "2022-02-25T17:12:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3877,2669,1200,889"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3876.67826,2669.16522h600.18261v0h600.18261v444.66957v444.66957h-600.18261h-600.18261v-444.66957z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_02b81d07-0913-49c9-a7e0-bc520511e3d8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a27ce390-e8ef-4350-9f98-3bb7690c2505"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dogs at the bottom of the poster have more diverse features than the ones at the top of the poster, in terms of shape and fur. They represent the diversity that selective breeding created. Dogs were no longer seen as purely utilitarian.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dogs at the bottom of the poster have more diverse features than the ones at the top of the poster, in terms of shape and fur. They represent the diversity that selective breeding created. Dogs were no longer seen as purely utilitarian.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "selective breeding",
+      "@type" : "oa:Tag",
+      "chars" : "selective breeding"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-25T17:04:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645808678609",
+    "dcterms:modified" : "2022-02-27T14:33:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=176,2530,4928,1058"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M176.2446,2529.82711h2464.10609v0h2464.10609v529.0668v529.0668h-2464.10609h-2464.10609v-529.0668z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_571d4626-74c0-4d72-b743-55c98ae242fc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"58.48783\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a27ce390-e8ef-4350-9f98-3bb7690c2505"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The dogs at the bottom are mainly indoors dogs and dogs kept for enjoyment. The ribbon worn by this poodle symbolizes this aspect.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The dogs at the bottom are mainly indoors dogs and dogs kept for enjoyment. The ribbon worn by this poodle symbolizes this aspect.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92724884",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-25T17:06:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645808811402",
+    "dcterms:modified" : "2022-02-27T14:33:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SjdkC.github.io/manifest/manifests/cat_and_dog_shows_manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2531,2566,259,269"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2568.97561,2605.18716c23.87032,-22.56019 57.54326,-39.36 91.37939,-39.33993v0v0c33.83613,0.02007 63.31307,15.73602 91.37939,39.33993c28.06632,23.60391 38.97534,59.5717 37.85058,94.97499c-1.12476,35.40329 -14.28331,70.24206 -37.85058,94.97499c-23.56727,24.73293 -57.54326,39.36 -91.37939,39.33993c-33.83613,-0.02007 -67.53239,-14.68729 -91.37939,-39.33993c-23.847,-24.65264 -37.84475,-59.2907 -37.85058,-94.97499c-0.00583,-35.68429 13.98026,-72.4148 37.85058,-94.97499z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_4cd26406-0c0c-4988-848b-f162d5edd7e2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"84.22247\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a27ce390-e8ef-4350-9f98-3bb7690c2505"
+    } ]
+  } ],
+  "@id" : "https://SjdkC.github.io/manifest/annotations/page2n.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
