@@ -3,6 +3,11 @@
   "@id" : "https://SjdkC.github.io/manifest/manifests/manifest_test.json",
   "@type" : "sc:Manifest",
   "label" : "Mon test",
+   "service": {
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "https://demos-dev.biblissima.fr/simpleAnnotationStore/search-api/8c7df7e277568d5215917fe81eb54d0f/search",
+    "@context": "http://iiif.io/api/search/0/context.json"
+    },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Description ici !",
@@ -16,12 +21,7 @@
     "label" : [ {
       "@value" : "Normal Sequence",
       "@language" : "en"
-    } ],
-    "service": {
-    "profile": "http://iiif.io/api/search/0/search",
-    "@id": "https://demos-dev.biblissima.fr/simpleAnnotationStore/search-api/8c7df7e277568d5215917fe81eb54d0f/search",
-    "@context": "http://iiif.io/api/search/0/context.json"
-    },
+    } ],   
     "canvases" : [ {
       "@id" : "https://archives-deux-sevres-vienne.fr/ark:/28387/vta563c56f414a055ae/canvas/0/2",
       "@type" : "sc:Canvas",
