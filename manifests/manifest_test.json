@@ -1,0 +1,274 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://SjdkC.github.io/manifest/manifests/manifest_test.json",
+  "@type" : "sc:Manifest",
+  "label" : "Mon test",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Description ici !",
+    "@language" : "fr"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://0f0671e7-46af-4ad8-8e1a-50e97fe0ca13",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "https://archives-deux-sevres-vienne.fr/ark:/28387/vta563c56f414a055ae/canvas/0/2",
+      "@type" : "sc:Canvas",
+      "label" : "8 septembre 1944-30 décembre 1945",
+      "width" : 3388,
+      "height" : 3388,
+      "rendering" : [ {
+        "@id" : "https://archives-deux-sevres-vienne.fr/cgi-bin/iipsrv.fcgi?PY=1&FIF=%2Fhome%2Fhttpd%2Fad7986%2Fdiffusion%2Fprod%2Fapp%2Fwebroot%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0002.jpg&HEI=800&CVT=JPG",
+        "label" : "Télécharger le document courant",
+        "format" : "image/jpg"
+      }, {
+        "@id" : "https://archives-deux-sevres-vienne.fr/archive/download?file=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0002.jpg",
+        "label" : "Télécharger le document original",
+        "format" : "image/jpg"
+      } ],
+      "ligeoPermalink" : "https://archives-deux-sevres-vienne.fr/ark:/28387/vta563c56f414a055ae/daogrp/0/2",
+      "thumbnail" : "https://archives-deux-sevres-vienne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad7986%2Fdiffusion%2Fprod%2Fapp%2Fwebroot%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0002.jpg&PY=1&HEI=80&QLT=80&CVT=JPG&SIZE=0&MTIME=0",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "@id" : "https://archives-deux-sevres-vienne.fr/archive/download?file=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0002.jpg",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://archives-deux-sevres-vienne.fr/archive/download?file=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0002.jpg",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/search/1/context.json",
+            "@id" : "https://archives-deux-sevres-vienne.fr/iiif/FRAD086/JX/FRAD086_348JX_00428/FRAD086_348JX_00428_0002.jpg",
+            "profile" : "http://iiif.io/api/search/1/search"
+          },
+          "format" : "image/jpeg",
+          "width" : 3447,
+          "height" : 3447
+        },
+        "on" : "https://archives-deux-sevres-vienne.fr/ark:/28387/vta563c56f414a055ae/canvas/0/2"
+      } ],
+      "ligeoRestrictedAccess" : false,
+      "ligeoIsSearchable" : false,
+      "ligeoClasseur" : {
+        "strImageBase" : "FRAD086_348JX_00428_0002",
+        "strImageDir" : "images/FRAD086/JX/FRAD086_348JX_00428",
+        "curTag" : "daogrp",
+        "curTagnum" : 0,
+        "notice_id" : "119747",
+        "ark" : "/ark:/28387/vta563c56f414a055ae",
+        "unitid" : "348 JX 428",
+        "eadid" : "FRAD086_JX"
+      },
+      "ligeoMediaPath" : "/home/httpd/ad7986/diffusion/prod/app/webroot/data/files/ad7986.diffusion/images/FRAD086/JX/FRAD086_348JX_00428/FRAD086_348JX_00428_0002.jpg",
+      "related" : [ {
+        "@id" : "https://archives-deux-sevres-vienne.fr/ark:/28387/vta563c56f414a055ae/manifest",
+        "label" : "La Nouvelle République du Centre-Ouest :  8 septembre 1944-30 décembre 1945",
+        "format" : ""
+      }, {
+        "@id" : "Test test test",
+        "label" : "",
+        "format" : ""
+      } ]
+    }, {
+      "@id" : "https://archives-deux-sevres-vienne.fr/ark:/28387/vta563c56f414a055ae/canvas/0/3",
+      "@type" : "sc:Canvas",
+      "label" : "8 septembre 1944-30 décembre 1945",
+      "width" : 3388,
+      "height" : 3388,
+      "rendering" : [ {
+        "@id" : "https://archives-deux-sevres-vienne.fr/cgi-bin/iipsrv.fcgi?PY=1&FIF=%2Fhome%2Fhttpd%2Fad7986%2Fdiffusion%2Fprod%2Fapp%2Fwebroot%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0003.jpg&HEI=800&CVT=JPG",
+        "label" : "Télécharger le document courant",
+        "format" : "image/jpg"
+      }, {
+        "@id" : "https://archives-deux-sevres-vienne.fr/archive/download?file=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0003.jpg",
+        "label" : "Télécharger le document original",
+        "format" : "image/jpg"
+      } ],
+      "ligeoPermalink" : "https://archives-deux-sevres-vienne.fr/ark:/28387/vta563c56f414a055ae/daogrp/0/3",
+      "thumbnail" : "https://archives-deux-sevres-vienne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad7986%2Fdiffusion%2Fprod%2Fapp%2Fwebroot%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0003.jpg&PY=1&HEI=80&QLT=80&CVT=JPG&SIZE=0&MTIME=0",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "@id" : "https://archives-deux-sevres-vienne.fr/archive/download?file=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0003.jpg",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://archives-deux-sevres-vienne.fr/archive/download?file=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0003.jpg",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/search/1/context.json",
+            "@id" : "https://archives-deux-sevres-vienne.fr/iiif/FRAD086/JX/FRAD086_348JX_00428/FRAD086_348JX_00428_0003.jpg",
+            "profile" : "http://iiif.io/api/search/1/search"
+          },
+          "format" : "image/jpeg",
+          "width" : 3410,
+          "height" : 3410
+        },
+        "on" : "https://archives-deux-sevres-vienne.fr/ark:/28387/vta563c56f414a055ae/canvas/0/3"
+      } ],
+      "ligeoRestrictedAccess" : false,
+      "ligeoIsSearchable" : false,
+      "ligeoClasseur" : {
+        "strImageBase" : "FRAD086_348JX_00428_0003",
+        "strImageDir" : "images/FRAD086/JX/FRAD086_348JX_00428",
+        "curTag" : "daogrp",
+        "curTagnum" : 0,
+        "notice_id" : "119747",
+        "ark" : "/ark:/28387/vta563c56f414a055ae",
+        "unitid" : "348 JX 428",
+        "eadid" : "FRAD086_JX"
+      },
+      "ligeoMediaPath" : "/home/httpd/ad7986/diffusion/prod/app/webroot/data/files/ad7986.diffusion/images/FRAD086/JX/FRAD086_348JX_00428/FRAD086_348JX_00428_0003.jpg",
+      "related" : {
+        "@id" : "https://archives-deux-sevres-vienne.fr/ark:/28387/vta563c56f414a055ae/manifest",
+        "label" : "La Nouvelle République du Centre-Ouest :  8 septembre 1944-30 décembre 1945",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://archives-pierresvives.herault.fr/ark:/37279/vta02972336cea60fdd/canvas/0/1",
+      "@type" : "sc:Canvas",
+      "label" : "Tableau d'assemblage",
+      "width" : 11176,
+      "height" : 11176,
+      "ligeoPermalink" : "https://archives-pierresvives.herault.fr/ark:/37279/vta02972336cea60fdd/dao/0/1",
+      "thumbnail" : "https://archives-pierresvives.herault.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad34%2Fdiffusion%2Fprod%2Fapp%2Fwebroot%2Fdata%2Ffiles%2Fad34.diffusion%2Fimages%2FFRAD034_000000646%2F2073W2198%2FFRAD034_2073W2198_00001.jpg&PY=1&HEI=80&QLT=80&CVT=JPG&SIZE=0&MTIME=0",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "@id" : "https://archives-pierresvives.herault.fr/archive/download?file=https%3A%2F%2Farchives-pierresvives.herault.fr%2Fdata%2Ffiles%2Fad34.diffusion%2Fimages%2FFRAD034_000000646%2F2073W2198%2FFRAD034_2073W2198_00001.jpg",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://archives-pierresvives.herault.fr/archive/download?file=https%3A%2F%2Farchives-pierresvives.herault.fr%2Fdata%2Ffiles%2Fad34.diffusion%2Fimages%2FFRAD034_000000646%2F2073W2198%2FFRAD034_2073W2198_00001.jpg",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/search/1/context.json",
+            "@id" : "https://archives-pierresvives.herault.fr/iiif/FRAD034_000000646/2073W2198/FRAD034_2073W2198_00001.jpg",
+            "profile" : "http://iiif.io/api/search/1/search"
+          },
+          "format" : "image/jpeg",
+          "width" : 11176,
+          "height" : 11176
+        },
+        "on" : "https://archives-pierresvives.herault.fr/ark:/37279/vta02972336cea60fdd/canvas/0/1"
+      } ],
+      "ligeoRestrictedAccess" : false,
+      "ligeoIsSearchable" : false,
+      "ligeoClasseur" : {
+        "strImageBase" : "FRAD034_2073W2198_00001",
+        "strImageDir" : "images/FRAD034_000000646/2073W2198",
+        "curTag" : "dao",
+        "curTagnum" : 0,
+        "notice_id" : "262326",
+        "ark" : "/ark:/37279/vta02972336cea60fdd",
+        "unitid" : "2073 W 2198",
+        "eadid" : "FRAD034_000000646"
+      },
+      "ligeoMediaPath" : "/home/httpd/ad34/diffusion/prod/app/webroot/data/files/ad34.diffusion/images/FRAD034_000000646/2073W2198/FRAD034_2073W2198_00001.jpg",
+      "related" : {
+        "@id" : "https://archives-pierresvives.herault.fr/ark:/37279/vta02972336cea60fdd/manifest",
+        "label" : "2073 W 2198 Tableau d'assemblage 1933",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://archives-deux-sevres-vienne.fr/ark:/28387/vta563c56f414a055ae/canvas/0/4",
+      "@type" : "sc:Canvas",
+      "label" : "8 septembre 1944-30 décembre 1945",
+      "width" : 3388,
+      "height" : 3388,
+      "rendering" : [ {
+        "@id" : "https://archives-deux-sevres-vienne.fr/cgi-bin/iipsrv.fcgi?PY=1&FIF=%2Fhome%2Fhttpd%2Fad7986%2Fdiffusion%2Fprod%2Fapp%2Fwebroot%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0004.jpg&HEI=800&CVT=JPG",
+        "label" : "Télécharger le document courant",
+        "format" : "image/jpg"
+      }, {
+        "@id" : "https://archives-deux-sevres-vienne.fr/archive/download?file=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0004.jpg",
+        "label" : "Télécharger le document original",
+        "format" : "image/jpg"
+      } ],
+      "ligeoPermalink" : "https://archives-deux-sevres-vienne.fr/ark:/28387/vta563c56f414a055ae/daogrp/0/4",
+      "thumbnail" : "https://archives-deux-sevres-vienne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad7986%2Fdiffusion%2Fprod%2Fapp%2Fwebroot%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0004.jpg&PY=1&HEI=80&QLT=80&CVT=JPG&SIZE=0&MTIME=0",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "@id" : "https://archives-deux-sevres-vienne.fr/archive/download?file=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0004.jpg",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://archives-deux-sevres-vienne.fr/archive/download?file=https%3A%2F%2Farchives-deux-sevres-vienne.fr%2Fdata%2Ffiles%2Fad7986.diffusion%2Fimages%2FFRAD086%2FJX%2FFRAD086_348JX_00428%2FFRAD086_348JX_00428_0004.jpg",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/search/1/context.json",
+            "@id" : "https://archives-deux-sevres-vienne.fr/iiif/FRAD086/JX/FRAD086_348JX_00428/FRAD086_348JX_00428_0004.jpg",
+            "profile" : "http://iiif.io/api/search/1/search"
+          },
+          "format" : "image/jpeg",
+          "width" : 3433,
+          "height" : 3433
+        },
+        "on" : "https://archives-deux-sevres-vienne.fr/ark:/28387/vta563c56f414a055ae/canvas/0/4"
+      } ],
+      "ligeoRestrictedAccess" : false,
+      "ligeoIsSearchable" : false,
+      "ligeoClasseur" : {
+        "strImageBase" : "FRAD086_348JX_00428_0004",
+        "strImageDir" : "images/FRAD086/JX/FRAD086_348JX_00428",
+        "curTag" : "daogrp",
+        "curTagnum" : 0,
+        "notice_id" : "119747",
+        "ark" : "/ark:/28387/vta563c56f414a055ae",
+        "unitid" : "348 JX 428",
+        "eadid" : "FRAD086_JX"
+      },
+      "ligeoMediaPath" : "/home/httpd/ad7986/diffusion/prod/app/webroot/data/files/ad7986.diffusion/images/FRAD086/JX/FRAD086_348JX_00428/FRAD086_348JX_00428_0004.jpg",
+      "related" : {
+        "@id" : "https://archives-deux-sevres-vienne.fr/ark:/28387/vta563c56f414a055ae/manifest",
+        "label" : "La Nouvelle République du Centre-Ouest :  8 septembre 1944-30 décembre 1945",
+        "format" : ""
+      }
+    }, {
+      "@id" : "http://677d3a2b-947e-416c-9643-cedd0c874077",
+      "@type" : "sc:Canvas",
+      "label" : "Tableau d'assemblage",
+      "width" : 11176,
+      "height" : 11176,
+      "ligeoPermalink" : "https://archives-pierresvives.herault.fr/ark:/37279/vta02972336cea60fdd/dao/0/1",
+      "thumbnail" : "https://archives-pierresvives.herault.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad34%2Fdiffusion%2Fprod%2Fapp%2Fwebroot%2Fdata%2Ffiles%2Fad34.diffusion%2Fimages%2FFRAD034_000000646%2F2073W2198%2FFRAD034_2073W2198_00001.jpg&PY=1&HEI=80&QLT=80&CVT=JPG&SIZE=0&MTIME=0",
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "@id" : "https://archives-pierresvives.herault.fr/archive/download?file=https%3A%2F%2Farchives-pierresvives.herault.fr%2Fdata%2Ffiles%2Fad34.diffusion%2Fimages%2FFRAD034_000000646%2F2073W2198%2FFRAD034_2073W2198_00001.jpg",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://archives-pierresvives.herault.fr/archive/download?file=https%3A%2F%2Farchives-pierresvives.herault.fr%2Fdata%2Ffiles%2Fad34.diffusion%2Fimages%2FFRAD034_000000646%2F2073W2198%2FFRAD034_2073W2198_00001.jpg",
+          "@type" : "dctypes:Image",
+          "service" : {
+            "@context" : "http://iiif.io/api/search/1/context.json",
+            "@id" : "https://archives-pierresvives.herault.fr/iiif/FRAD034_000000646/2073W2198/FRAD034_2073W2198_00001.jpg",
+            "profile" : "http://iiif.io/api/search/1/search"
+          },
+          "format" : "image/jpeg",
+          "width" : 11176,
+          "height" : 11176
+        },
+        "on" : "https://archives-pierresvives.herault.fr/ark:/37279/vta02972336cea60fdd/canvas/0/1"
+      } ],
+      "ligeoRestrictedAccess" : false,
+      "ligeoIsSearchable" : false,
+      "ligeoClasseur" : {
+        "strImageBase" : "FRAD034_2073W2198_00001",
+        "strImageDir" : "images/FRAD034_000000646/2073W2198",
+        "curTag" : "dao",
+        "curTagnum" : 0,
+        "notice_id" : "262326",
+        "ark" : "/ark:/37279/vta02972336cea60fdd",
+        "unitid" : "2073 W 2198",
+        "eadid" : "FRAD034_000000646"
+      },
+      "ligeoMediaPath" : "/home/httpd/ad34/diffusion/prod/app/webroot/data/files/ad34.diffusion/images/FRAD034_000000646/2073W2198/FRAD034_2073W2198_00001.jpg",
+      "related" : {
+        "@id" : "https://archives-pierresvives.herault.fr/ark:/37279/vta02972336cea60fdd/manifest",
+        "label" : "2073 W 2198 Tableau d'assemblage 1933",
+        "format" : ""
+      }
+    } ]
+  } ],
+  "structures" : [ ]
+}
